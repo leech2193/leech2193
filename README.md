@@ -9,3 +9,4 @@
 ## Contact
 
 ## More Info
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leech2193&show_icons=true&theme=radical)
